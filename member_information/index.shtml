@@ -101,7 +101,7 @@
 						<a href="../information\2022nenkaihi.pdf" target="_blank">続き</a>
 					</p>
 				</div>
-        <div class="box alllink">
+        <!-- <div class="box alllink">
 					<div class="label radiusTop">
 						<i class="fa fa-caret-square-o-right fa-fw"></i>
 						会員情報変更
@@ -110,7 +110,7 @@
 					<p class="linkarea">
 						<a href="../change_member_data/index.shtml">続き</a>
 					</p>
-				</div>
+				</div> -->
                 <div class="box alllink">
 					<div class="label radiusTop">
 						<i class="fa fa-caret-square-o-right fa-fw"></i>
