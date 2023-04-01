@@ -94,6 +94,18 @@
         <div class="box alllink">
 					<div class="label radiusTop">
 						<i class="fa fa-caret-square-o-right fa-fw"></i>
+						メンバー紹介
+					</div>
+					<p>メンバーの紹介です。この場所に移動しました。</p>
+					<p class="linkarea">
+						<a href="../member/index.shtml">続き</a>
+					</p>
+				</div>
+
+
+        <div class="box alllink">
+					<div class="label radiusTop">
+						<i class="fa fa-caret-square-o-right fa-fw"></i>
 						2022年度年会費
 					</div>
 					<p>2022年度の年会費案内資料です。</p>
@@ -111,7 +123,7 @@
 						<a href="../change_member_data/index.shtml">続き</a>
 					</p>
 				</div> -->
-                <div class="box alllink">
+        <div class="box alllink">
 					<div class="label radiusTop">
 						<i class="fa fa-caret-square-o-right fa-fw"></i>
 						振込口座情報
