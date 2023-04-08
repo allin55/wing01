@@ -94,6 +94,7 @@
 				<div>
 					<ul class="galleryArchive">
                         <a id="insert-pos-taikaikekka"></a>	<!-- マクロでの挿入位置 -->
+<li><a href="taikai2304.shtml">2023年4～6月</a></li>
 <li><a href="taikai2301.shtml">2023年1～3月</a></li>
 <li><a href="taikai2210.shtml">2022年10～12月</a></li>
 <li><a href="taikai2207.shtml">2022年7～9月</a></li>
@@ -142,19 +143,35 @@
 
         <a id="insert-pos"></a>
 <tr>
+	<td>4月2日</td>
+	<td>ハｰフ</td>
+	<td><a class="new" href="taikai2304.shtml#第37回行田市鉄剣マラソン（2023.4.2）">第37回行田市鉄剣マラソン（2023.4.2）</a></td>
+</tr>
+<tr>
+	<td>4月2日</td>
+	<td>10km</td>
+	<td><a class="new" href="taikai2304.shtml#第4回東京さくらマラソン（2023.4.2）">第4回東京さくらマラソン（2023.4.2）</a></td>
+</tr>
+<tr>
+	<td>3月12日</td>
+	<td>ハｰフ, 10km</td>
+	<td><a class="new" href="taikai2301.shtml#第9回かつしかふれあいRUNフェスタ2023（2023.3.12）">第9回かつしかふれあいRUNフェスタ2023（2023.3.12）</a></td>
+</tr>
+	
+<tr>
 	<td>3月26日</td>
 	<td>フル, 10km</td>
-	<td><a class="new" href="taikai2301.shtml#第40回佐倉マラソン（2023.3.26）">第40回佐倉マラソン（2023.3.26）</a></td>
+	<td><a href="taikai2301.shtml#第40回佐倉マラソン（2023.3.26）">第40回佐倉マラソン（2023.3.26）</a></td>
 </tr>
 <tr>
 	<td>3月19日</td>
 	<td>フル</td>
-	<td><a class="new" href="taikai2301.shtml#2023板橋Cityマラソン（2023.3.19）">2023板橋Cityマラソン（2023.3.19）</a></td>
+	<td><a href="taikai2301.shtml#2023板橋Cityマラソン（2023.3.19）">2023板橋Cityマラソン（2023.3.19）</a></td>
 </tr>
 <tr>
 	<td>3月12日</td>
 	<td>10km</td>
-	<td><a class="new" href="taikai2301.shtml#中野ランニングフェスタ2023（2023.3.12）">中野ランニングフェスタ2023（2023.3.12）</a></td>
+	<td><a href="taikai2301.shtml#中野ランニングフェスタ2023（2023.3.12）">中野ランニングフェスタ2023（2023.3.12）</a></td>
 </tr>
 	
 <tr>
