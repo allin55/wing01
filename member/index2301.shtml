@@ -796,7 +796,11 @@
     	<p class="female">あっこちゃん</p>
     	<p class="small_size">美人ﾗﾝﾅｰ,マイペースに走っています</p>
     </div> -->
-    
+    <div class="photo_box" id="A0060">
+    	<img src="img/yossi.jpg" alt="よっしー">
+    	<p class="male">よっしー</p>
+        <p class="small_size">物静かなｽﾏｲﾙﾗﾝﾅｰ☆</p>
+    </div>
     <div class="photo_box" id="A0058">
     	<img src="img/youko.jpg" alt="葉子ちゃん">
     	<p class="female"><span class="sub3">葉子ちゃん</p>
@@ -816,7 +820,11 @@
     	<p class="male"><span class="sub3">しまむーさん</p>
     	<p class="small_size">ニコニコ天使☆そばにいるだけで幸せになれます☆</p>
     </div>
-    
+    <div class="photo_box" id="A0054">
+    	<img src="img/rie.jpg" alt="りえちゃん">
+    	<p class="female"><span class="sub35">りえちゃん</p>
+    	<p class="small_size">ユーモアいっぱい,幸運の女神☆</p>
+    </div>
     <div class="photo_box" id="A0053">
     	<img src="img/motti.jpg" alt="もっちさん">
     	<p class="male">もっちさん</p>
@@ -868,7 +876,11 @@
     	<p class="female">くるみさん</p>
     	<p class="small_size">ヨガの先生,ﾊﾞｲﾀﾘﾃｨｰ溢れる女性</p>
     </div>
-    
+    <div class="photo_box" id="A0042">
+    	<img src="img/agui.jpg" alt="アグイさん">
+    	<p class="male"><span class="sub3">アグイさん</p>
+    	<p class="small_size">鍼灸師。癒し系。お茶目なドリームランナー</p>
+    </div>
     <div class="photo_box" id="A0040">
     	<img src="img/yamada.jpg" alt="山田（建）さん">
     	<p class="male">山田（建）さん</p>
@@ -971,7 +983,11 @@
   	<img src="img/A0197.jpg" alt="林さん">
   	<p class="male"><span class="sub3">林さん</p>
   </div>
-  
+  <div class="photo_box" id="A0019">
+  	<img src="img/nabe.jpg" alt="ナベちゃん">
+  	<p class="male"><span class="sub3">ナベちゃん</p>
+  	<p class="small_size">努力のサラブレッド！</p>
+  </div>
   <div class="photo_box" id="A0020">
   	<img src="img/hiraga.jpg" alt="平賀さん">
   	<p class="female"><span class="sub3">平賀さん</p>
@@ -1005,72 +1021,27 @@
   	<p class="female"><span class="sub35">珠ちゃん</p>
   	<p class="small_size">二児のママ子育て・家事をこなすランナーママ</p>
   </div>
-  <div class="photo_box big2" id="A0083">
-  	<img src="img/ueto.jpg" alt="上戸さん">
-  	<p class="male">上戸さん</p>
-  </div>
-  <div class="photo_box big2" id="A0009">
-  	<img src="img/kashima.jpg" alt="嘉志摩さん">
-  	<p class="male">嘉志摩さん</p>
-  </div>
-  <div class="photo_box big2" id="A0004">
-  	<img src="img/ohji.jpg" alt="王子">
-  	<p class="male"><span class="sub3">王子</p>
-  	<p class="small_size">ﾊｰﾌ60分台記録保持者</p>
-  </div>
-  <div class="photo_box big2" id="A0005">
-  	<img src="img/nagasaki.jpg" alt="長崎さん">
-  	<p class="male"><span class="sub3">長崎さん</p>
-  	<p class="small_size">吠える監督！！</p>
-  </div>
-  <div class="photo_box big2" id="A0003">
-  	<img src="img/miyo.jpg" alt="美代ちゃん">
-      <p class="female">美代ちゃん</P>                                         
-  	<p class="small_size">太鼓叩いて粋でﾉﾘﾉﾘ!! </p>
-  </div>
+
+
+
+
+
+
+	<div class="float_clear"></div>
+
+	<h3 id="staff">事務局</h3>
+
+
   <div class="photo_box" id="A0014">
   	<img src="img/toshi.jpg" alt="トシさん">
+    <p class="yaku">保険・陸連登録担当</p>
   	<p class="male">トシさん</p>
   	<p class="small_size">ウルトラランナー</p>
   </div>
   <div class="photo_box" id="A0151">
   	<img src="img/nishida.jpg" alt="にしださん">
+  	<p class="yaku">会計担当</p>
   	<p class="female"><span class="sub35">にしださん</p>
-  </div>
-
-	<div class="float_clear"></div>
-
-	<h3 id="staff">運営</h3>
-
-
-  
-  <div class="photo_box big2" id="A0026">
-  	<img src="img/mitarai.jpg" alt="みたらいさん">
-  	<p class="yaku">会長</p>
-  	<p class="male"><span class="sub3">みたらいさん</p>
-  	<p class="small_size">ガラスの貴公子,繊細で美しい☆</p>
-  </div>
-  <div class="photo_box" id="A0019">
-  	<img src="img/nabe.jpg" alt="ナベさん">
-　　　 <p class="yaku">副会長</p>
-  	<p class="male"><span class="sub3">ナベさん</p>
-  	<p class="small_size">努力のサラブレッド！</p>
-  </div>
-  <div class="photo_box" id="A0054">
-    	<img src="img/rie.jpg" alt="りえちゃん">
-　　　 <p class="yaku">副会長</p>
-    	<p class="female"><span class="sub35">りえさん</p>
-    	<p class="small_size">ユーモアいっぱい,幸運の女神☆</p>
-  </div>
-  <div class="photo_box" id="A0060">
-    	<img src="img/yossi.jpg" alt="よっしー">
-　　　 <p class="yaku">会計担当</p>
-    	<p class="male">しらたさん</p>
-  </div>
-  <div class="photo_box" id="A0042">
-    	<img src="img/agui.jpg" alt="アグイさん">
-    	<p class="yaku">HP担当</p>
-  　  <p class="male"><span class="sub3">アグイさん</p>
   </div>
   <div class="photo_box" id="A0012">
   	<img src="img/komatsu.jpg" alt="小松さん">
@@ -1082,17 +1053,68 @@
   	<p class="yaku">大会結果集計担当</p>
   	<p class="male"><span class="sub3">吉田さん</p>
   </div>
-  
+  <div class="photo_box big" id="A0008">
+  	<img src="img/koichi.jpg" alt="浩一さん">
+  	<p class="yaku">名誉会員</p>
+  	<p class="male"><span class="sub3">浩一さん</p>
+  	<p class="small_size">頭脳派・侍ランナー</p>
+  </div>
+
+  <div class="photo_box big" id="A0025">
+  	<img src="img/hirayama.jpg" alt="平山さん">
+  	<p class="yaku">名誉会員</p>
+  	<p class="male"><span class="sub3">平山さん</p>
+  	<p class="small_size">珠ちゃんと二人三脚家事をこなすﾗﾝﾅｰﾊﾟﾊﾟ</p>
+  </div>
+
+
   <div class="photo_box big" id="A0006">
   	<img src="img/sakurada.jpg" alt="櫻田さん">
   	<p class="yaku">安全・給水サポート</p>
   	<p class="male">櫻田さん</p>
   	<p class="small_size">気配りＮＯ.1,一言一言があったかい☆ </p>
   </div>
-  
+  <div class="photo_box big2" id="A0009">
+  	<img src="img/kashima.jpg" alt="嘉志摩さん">
+  	<p class="yaku">会長代行補佐</p>
+  	<p class="small_size">監査</p>
+  	<p class="male">嘉志摩さん</p>
+  </div>
+  <div class="photo_box big2" id="A0004">
+  	<img src="img/ohji.jpg" alt="王子">
+  	<p class="yaku">会長代行補佐</p>
+  	<p class="small_size">キッズウィングAC担当</p>
+  	<p class="male"><span class="sub3">王子</p>
+  	<p class="small_size">ﾊｰﾌ60分台記録保持者</p>
+  </div>
+  <div class="photo_box big2" id="A0083">
+  	<img src="img/ueto.jpg" alt="上戸さん">
+  	<p class="yaku">顧問</p>
+  	<p class="male">上戸さん</p>
+  </div>
+  <div class="photo_box big2" id="A0005">
+  	<img src="img/nagasaki.jpg" alt="長崎さん">
+  	<p class="yaku">監督GM</p>
+  	<p class="small_size">トレーニングメニュー</p>
+  	<p class="male"><span class="sub3">長崎さん</p>
+  	<p class="small_size">吠える監督！！</p>
+  </div>
+  <div class="photo_box big2" id="A0003">
+  	<img src="img/miyo.jpg" alt="美代ちゃん">
+  	<p class="yaku">副会長</p>
+  	<p class="small_size">新入会員サポート</p>
+  	<p class="female">美代ちゃん</p>
+  	<p class="small_size">太鼓叩いて粋でﾉﾘﾉﾘ!! </p>
+  </div>
+  <div class="photo_box big2" id="A0026">
+  	<img src="img/mitarai.jpg" alt="みたらいさん">
+  	<p class="yaku">副会長COO</p>
+  	<p class="male"><span class="sub3">みたらいさん</p>
+  	<p class="small_size">ガラスの貴公子,繊細で美しい☆</p>
+  </div>
   <div class="photo_box big2" id="A0002">
   	<img src="img/tomi.jpg" alt="トミー">
-  	<p class="yaku">名誉会長</p>
+  	<p class="yaku">会長代行CEO</p>
   	<p class="male"><span class="sub3">トミー</p>
   	<p class="small_size">ウィングを創設した人望厚きカリスマランナー</p>
   </div>
@@ -1102,20 +1124,8 @@
   	<p class="female">（故）順子さん</p>
   	<p class="small_size">天国から見守っていて下さいね</p>
   </div>
-  <div class="photo_box big" id="A0008">
-  	<img src="img/koichi.jpg" alt="浩一さん">
-  	<p class="yaku">名誉会員</p>
-  	<p class="male"><span class="sub3">浩一さん</p>
-  	<p class="small_size">頭脳派・侍ランナー</p>
-  </div>
-  <div class="photo_box big" id="A0025">
-  	<img src="img/hirayama.jpg" alt="平山さん">
-  	<p class="yaku">名誉会員</p>
-  	<p class="male"><span class="sub3">平山さん</p>
-  	<p class="small_size">珠ちゃんと二人三脚家事をこなすﾗﾝﾅｰﾊﾟﾊﾟ</p>
-  </div>
-  
-  
+
+
 
 
 
