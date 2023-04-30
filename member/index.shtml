@@ -90,6 +90,50 @@
 				</div>
 
                 <div class="photo_clum">
+<div class="photo_box" id="A0242">
+	<img src="img/noPhoto.jpg" alt="フルモトさん">
+	<p class="female">フルモトさん</p>
+</div>
+<div class="photo_box" id="A0241">
+	<img src="img/noPhoto.jpg" alt="キュウシマさん">
+	<p class="male">キュウシマさん</p>
+</div>
+<div class="photo_box" id="A0240">
+	<img src="img/noPhoto.jpg" alt="ナカムラさん">
+	<p class="female">ナカムラさん</p>
+</div>
+<div class="photo_box" id="A0239">
+	<img src="img/noPhoto.jpg" alt="ナカジマさん">
+	<p class="male">ナカジマさん</p>
+</div>
+<div class="photo_box" id="A0238">
+	<img src="img/noPhoto.jpg" alt="タナカツヨシさん">
+	<p class="male">タナカツヨシさん</p>
+</div>
+<div class="photo_box" id="A0237">
+	<img src="img/noPhoto.jpg" alt="シバタさん">
+	<p class="male">シバタさん</p>
+</div>
+<div class="photo_box" id="A0236">
+	<img src="img/noPhoto.jpg" alt="カセさん">
+	<p class="male">カセさん</p>
+</div>
+<div class="photo_box" id="A0235">
+	<img src="img/noPhoto.jpg" alt="オクダさん">
+	<p class="female">オクダさん</p>
+</div>
+<div class="photo_box" id="A0234">
+	<img src="img/noPhoto.jpg" alt="オクセさん">
+	<p class="male">オクセさん</p>
+</div>
+<div class="photo_box" id="A0233">
+	<img src="img/noPhoto.jpg" alt="オオブチさん">
+	<p class="female">オオブチさん</p>
+</div>
+<div class="photo_box" id="A0232">
+	<img src="img/noPhoto.jpg" alt="エゾさん">
+	<p class="male">エゾさん</p>
+</div>
 <div class="photo_box" id="A0231">
 	<img src="img/A0231.jpg" alt="斉藤（健）さん">
 	<p class="male">斉藤（健）さん</p>
@@ -220,8 +264,8 @@
 	<p class="female"><span class="sub3">鶴谷さん</p>
 </div>
 <div class="photo_box" id="A0198">
-	<img src="img/A0198.jpg" alt="山崎さん">
-	<p class="male">山崎さん</p>
+	<img src="img/A0198.jpg" alt="山崎(亨)さん">
+	<p class="male">山崎(亨）さん</p>
 </div>
 <div class="photo_box" id="A0196">
 	<img src="img/A0196.jpg" alt="森川さん">
@@ -363,10 +407,10 @@
 <img src="img/suu.jpg" alt="スーさん">
 <p class="male">スーさん</p>
 </div> -->
-<!-- <div class="photo_box" id="A0162">
+    <div class="photo_box" id="A0162">
         <img src="img/A0162.jpg" alt="えみさん">
     	<p class="female">えみさん</p>
-    </div> -->
+    </div>
     <!-- 2019/06/15 <div class="photo_box" id="A0161">
     	<img src="img/oku.jpg" alt="おくちゃん">
     	<p class="male">おくちゃん</p>
@@ -465,10 +509,10 @@
     	<img src="img/kosuge.jpg" alt="コスゲさん">
     	<p class="male"><span class="sub3">コスゲさん</p>
     </div>
-    <!-- <div class="photo_box" id="A0137">
+    <div class="photo_box" id="A0137">
     	<img src="img/nishino.jpg" alt="西野さん">
     	<p class="female">西野さん</p>
-    </div> -->
+    </div> 
     <!-- <div class="photo_box" id="A0136">
     	<img src="img/satona.jpg" alt="佐藤(奈)さん">
     	<p class="female">佐藤(奈)さん</p>
@@ -478,7 +522,7 @@
     	<p class="female">川田(明)さん</p>
     </div> -->
     <div class="photo_box" id="A0134">
-        <img src="img/noPhoto.jpg" alt="イチローさん">
+        <img src="img/nophoto.jpg" alt="イチローさん">
         <p class="male">イチローさん</p>
     </div>
     <!-- 2018年退会
@@ -625,7 +669,7 @@
     	<p class="male">角田（つのだ）さん</p>
     </div> -->
     <div class="photo_box" id="A0100">
-    	<img src="img/uetake.jpg" alt="植竹さん">
+    	<img src="img/nophoto.jpg" alt="植竹さん">
     	<p class="male">植竹さん</p>
     </div>
     <div class="photo_box" id="A0099">
@@ -759,18 +803,14 @@
     	<img src="img/wagatsuma.jpg" alt="我妻さん">
     	<p class="male">我妻さん</p>
     </div>
-    <div class="photo_box" id="A0067">
-        <img src="img/matoba.jpg" alt="（故）まとばさん">
-        <p class="male">（故）まとばさん</p>
-    </div>
     <div class="photo_box" id="A0066">
     	<img src="img/tanaka.jpg" alt="田中（利）さん">
     	<p class="male">田中（利）さん</p>
     </div>
-    <!-- <div class="photo_box" id="A0065">
+    <div class="photo_box" id="A0065">
     	<img src="img/kubo.jpg" alt="くぼっちさん">
     	<p class="male">くぼっちさん</p>
-    </div> -->
+    </div> 
     <!-- 2018年退会
 	<div class="photo_box" id="A0064">
     	<img src="img/shimada.jpg" alt="島田さん">
@@ -1005,25 +1045,25 @@
   	<p class="female"><span class="sub35">珠ちゃん</p>
   	<p class="small_size">二児のママ子育て・家事をこなすランナーママ</p>
   </div>
-  <div class="photo_box big2" id="A0083">
+  <div class="photo_box " id="A0083">
   	<img src="img/ueto.jpg" alt="上戸さん">
   	<p class="male">上戸さん</p>
   </div>
-  <div class="photo_box big2" id="A0009">
+  <div class="photo_box " id="A0009">
   	<img src="img/kashima.jpg" alt="嘉志摩さん">
   	<p class="male">嘉志摩さん</p>
   </div>
-  <div class="photo_box big2" id="A0004">
+  <div class="photo_box " id="A0004">
   	<img src="img/ohji.jpg" alt="王子">
   	<p class="male"><span class="sub3">王子</p>
   	<p class="small_size">ﾊｰﾌ60分台記録保持者</p>
   </div>
-  <div class="photo_box big2" id="A0005">
+  <div class="photo_box " id="A0005">
   	<img src="img/nagasaki.jpg" alt="長崎さん">
   	<p class="male"><span class="sub3">長崎さん</p>
   	<p class="small_size">吠える監督！！</p>
   </div>
-  <div class="photo_box big2" id="A0003">
+  <div class="photo_box " id="A0003">
   	<img src="img/miyo.jpg" alt="美代ちゃん">
       <p class="female">美代ちゃん</P>                                         
   	<p class="small_size">太鼓叩いて粋でﾉﾘﾉﾘ!! </p>
@@ -1044,7 +1084,7 @@
 
 
   
-  <div class="photo_box big2" id="A0026">
+  <div class="photo_box " id="A0026">
   	<img src="img/mitarai.jpg" alt="みたらいさん">
   	<p class="yaku">会長</p>
   	<p class="male"><span class="sub3">みたらいさん</p>
@@ -1072,43 +1112,43 @@
     	<p class="yaku">HP担当</p>
   　  <p class="male"><span class="sub3">アグイさん</p>
   </div>
-  <div class="photo_box" id="A0012">
+  <!--<div class="photo_box" id="A0012">
   	<img src="img/komatsu.jpg" alt="小松さん">
   	<p class="yaku">HP担当</p>
   	<p class="male">小松さん</p>
-  </div>
+  </div>-->
   <div class="photo_box" id="A0010">
   	<img src="img/yoshida.jpg" alt="吉田さん">
   	<p class="yaku">大会結果集計担当</p>
   	<p class="male"><span class="sub3">吉田さん</p>
   </div>
   
-  <div class="photo_box big" id="A0006">
+  <div class="photo_box " id="A0006">
   	<img src="img/sakurada.jpg" alt="櫻田さん">
   	<p class="yaku">安全・給水サポート</p>
   	<p class="male">櫻田さん</p>
   	<p class="small_size">気配りＮＯ.1,一言一言があったかい☆ </p>
   </div>
   
-  <div class="photo_box big2" id="A0002">
+  <div class="photo_box " id="A0002">
   	<img src="img/tomi.jpg" alt="トミー">
   	<p class="yaku">名誉会長</p>
   	<p class="male"><span class="sub3">トミー</p>
   	<p class="small_size">ウィングを創設した人望厚きカリスマランナー</p>
   </div>
-  <div class="photo_box big2" id="A0001">
+  <div class="photo_box " id="A0001">
   	<img src="img/junko.jpg" alt="（故）順子さん">
   	<p class="yaku">名誉会員</p>
   	<p class="female">（故）順子さん</p>
   	<p class="small_size">天国から見守っていて下さいね</p>
   </div>
-  <div class="photo_box big" id="A0008">
+  <div class="photo_box " id="A0008">
   	<img src="img/koichi.jpg" alt="浩一さん">
   	<p class="yaku">名誉会員</p>
   	<p class="male"><span class="sub3">浩一さん</p>
   	<p class="small_size">頭脳派・侍ランナー</p>
   </div>
-  <div class="photo_box big" id="A0025">
+  <div class="photo_box " id="A0025">
   	<img src="img/hirayama.jpg" alt="平山さん">
   	<p class="yaku">名誉会員</p>
   	<p class="male"><span class="sub3">平山さん</p>
