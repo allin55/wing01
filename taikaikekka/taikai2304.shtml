@@ -87,13 +87,30 @@
 
 
                 <a id="insert-pos"></a>
-<a id="第25回長野マラソン2023（2023.4.23）"></a>
-<h2><a href="https://www.naganomarathon.gr.jp/" target="_blank">第25回長野マラソン2023（2023.4.23）</a></h2>
-<h3>フル</h3>
+<a id="第11回柏の葉爽快マラソン（2023.5.3）"></a>
+<h2><a href="https://earthrunclub.net/competition/20230503_kashiwa_11/" target="_blank">第11回柏の葉爽快マラソン（2023.5.3）</a></h2>
+<h3>10km</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>小鹿さん</td><td>0:45:38</td><td>6/41</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+<h3>5km</h3>
+<table class="type091">
+	<thead><tr><th>ランナー</th><th>グロスタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>オガワさん</td><td>0:18:55</td><td>2/12</td><td class="type091nyusyo">準優勝</td></tr></tbody>
+</table>
+
+<a id="第33回チャレンジ富士五湖ウルトラマラソン（2023.4.16）"></a>
+<h2><a href="https://www.r-wellness.com/fuji5/" target="_blank">第33回チャレンジ富士五湖ウルトラマラソン（2023.4.16）</a></h2>
+<h3>FUJI4LAKES(100km)</h3>
 <table class="type091">
 <thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
-	<tbody><tr class="type091male"><td>よっちゃん</td><td>2:38:26</td><td>2:38:19</td><td>3/1291</td><td class="type091nyusyo"></td></tr></tbody>
-	<tbody><tr class="type091male"><td>山崎（卓）さん</td><td>2:54:50</td><td>2:54:13</td><td>65/642</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091female"><td>加部さん</td><td>13:38:06</td><td>13:36:06</td><td>175/227</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+<h3>FUJI3LAKES(63km)</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>我妻さん</td><td>7:56:45</td><td>7:52:50</td><td>185/615</td><td class="type091nyusyo"></td></tr></tbody>
 </table>
 
 <a id="かすみがうらマラソン2023（2023.4.16）"></a>
@@ -123,7 +140,17 @@
 <table class="type091">
 <thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
 	<tbody><tr class="type091male"><td>山崎（卓）さん</td><td>1:02:38</td><td>1:02:35</td><td>66/2449</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>犬介さん</td><td>1:23:32</td><td>1:22:34</td><td>412/2449</td><td class="type091nyusyo"></td></tr></tbody>
 	<tbody><tr class="type091female"><td>胡桃さん</td><td>1:51:38</td><td>1:50:46</td><td>473/942</td><td class="type091nyusyo"></td></tr></tbody>
+</table>
+
+<a id="第25回長野マラソン2023（2023.4.23）"></a>
+<h2><a href="https://www.naganomarathon.gr.jp/" target="_blank">第25回長野マラソン2023（2023.4.23）</a></h2>
+<h3>フル</h3>
+<table class="type091">
+<thead><tr><th>ランナー</th><th>グロスタイム</th><th>ネットタイム</th><th>種目別順位</th><th>備考</th></tr></thead>
+	<tbody><tr class="type091male"><td>よっちゃん</td><td>2:38:26</td><td>2:38:19</td><td>3/1291</td><td class="type091nyusyo"></td></tr></tbody>
+	<tbody><tr class="type091male"><td>山崎（卓）さん</td><td>2:54:50</td><td>2:54:13</td><td>65/642</td><td class="type091nyusyo"></td></tr></tbody>
 </table>
 
 <a id="第37回行田市鉄剣マラソン（2023.4.2）"></a>
