@@ -96,9 +96,9 @@
 						<i class="fa fa-caret-square-o-right fa-fw"></i>
 						メンバー紹介
 					</div>
-					<p>メンバーの紹介です。この場所に移動しました。</p>
+					<p>メンバーの紹介です。写真付きの紹介から、名前のみのExcelに変更しました。</p>
 					<p class="linkarea">
-						<a href="../member/index.shtml">続き</a>
+						<a href="../member_information/member.xlsx" target="_blank">続き</a>
 					</p>
 				</div>
 
