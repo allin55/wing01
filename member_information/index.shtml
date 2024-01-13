@@ -91,7 +91,7 @@
 					<p class="subh"></p>
 				</div>
 
-        <div class="box alllink">
+        <!-- <div class="box alllink">
 					<div class="label radiusTop">
 						<i class="fa fa-caret-square-o-right fa-fw"></i>
 						メンバー紹介
@@ -100,7 +100,7 @@
 					<p class="linkarea">
 						<a href="../member_information/member.xlsx" target="_blank">続き</a>
 					</p>
-				</div>
+				</div> -->
 
 
 		<!-- <div class="box alllink">
@@ -158,7 +158,7 @@
 						<a href="../information/2021zentaiMTG.shtml">続き</a>
 					</p>
 				</div> -->
-                <div class="box alllink">
+        <!-- <div class="box alllink">
 					<div class="label radiusTop">
 						<i class="fa fa-caret-square-o-right fa-fw"></i>
 						練習会ガイドラインver2
@@ -167,7 +167,7 @@
 					<p class="linkarea">
 						<a href="../information/20201114rensyu_guide_v2.pdf" target="_blank">続き</a>
 					</p>
-				</div>
+				</div> -->
         <!-- <div class="box alllink">
 					<div class="label radiusTop">
 						<i class="fa fa-caret-square-o-right fa-fw"></i>
@@ -180,7 +180,7 @@
 						</p>
 				</div> -->
 
-                <div class="box alllink">
+        <!-- <div class="box alllink">
 					<div class="label radiusTop">
 						<i class="fa fa-caret-square-o-right fa-fw"></i>
 						練習会ガイドライン
@@ -189,7 +189,7 @@
 					<p class="linkarea">
 						<a href="../information/20200701rensyu_guide.pdf" target="_blank">続き</a>
 					</p>
-				</div>
+				</div> -->
        <!--  <div class="box alllink">
 					<div class="label radiusTop">
 						<i class="fa fa-caret-square-o-right fa-fw"></i>
